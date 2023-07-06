@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://github.com/Dagaa95/home-page
+https://dagaa95.github.io/home-page/
 
 ## Description
 This is my first website where you can read something about me.
